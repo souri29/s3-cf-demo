@@ -3,4 +3,4 @@ Resources:
     Type: AWS::S3::Bucket
     DeletionPolicy: Retain
     Properties:
-      BucketName: my-new-s3-cicd-v3
+      BucketName: my-new-s3-cicd-v4
